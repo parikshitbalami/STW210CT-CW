@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/jung2-2_0_1.zip"/>
+	<classpathentry kind="lib" path="E:/Java Projects/Java Final Assignments/Task 1/Week 8-12/libraries/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Java Projects/Java Final Assignments/Task 1/Week 8-12/libraries/jung-visualization-2.0.1.jar"/>
+	<classpathentry kind="output" path="out/production/CW"/>
+</classpath>
